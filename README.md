@@ -4,6 +4,7 @@ This online course will provide basic information on the use of GIS tools throug
 This 5-days course will be done in English and French:
 
 [Agenda](https://gfcmsitestorage.blob.core.windows.net/website/Agenda_GIS_OnlineCourse-EN.pdf)
+
 [Ordre du jour](https://gfcmsitestorage.blob.core.windows.net/website/Agenda_GIS_OnlineCourse-EN.pdf)
 
-You should download and install [QGIS](https://www.qgis.org/en/site/forusers/download.html) version 3.10 to your computer.
+You should download and install QGIS [version 3.10](https://www.qgis.org/en/site/forusers/download.html) to your computer.
